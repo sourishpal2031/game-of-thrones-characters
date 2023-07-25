@@ -1,3 +1,6 @@
+deployed version of the project can be found here->
+https://64bf7f43fbb98c391e9ca50f--resonant-alfajores-d29844.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
